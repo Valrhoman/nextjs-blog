@@ -28,6 +28,7 @@ export default function Home({ allPostsData }) {
           <a href="https://twitter.com/vlrhman" target="_blank">
             Twitter
           </a>
+          .
         </p>
         <p>
           (This is a sample website built from{" "}
