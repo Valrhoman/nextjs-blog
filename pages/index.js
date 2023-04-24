@@ -27,12 +27,15 @@ export default function Home({ allPostsData }) {
           me on{" "}
           <a href="https://twitter.com/vlrhman" target="_blank">
             Twitter
+          </a>{" "}
+          or{" "}
+          <a
+            href="https://www.linkedin.com/in/valrhomanferrer/"
+            target="_blank"
+          >
+            LinkedIn
           </a>
           .
-        </p>
-        <p>
-          (This is a sample website built from{" "}
-          <a href="https://nextjs.org/learn"> Next.js tutorial</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
