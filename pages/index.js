@@ -23,17 +23,17 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm <strong>Alrho</strong>. I'm a web developer. You can contact
-          me on{" "}
-          <a href="https://twitter.com/vlrhman" target="_blank">
-            Twitter
-          </a>{" "}
-          or{" "}
+          Hi, I'm <strong>Alrho</strong>. I'm an aspiring software engineer. You
+          can contact me on{" "}
           <a
             href="https://www.linkedin.com/in/valrhomanferrer/"
             target="_blank"
           >
             LinkedIn
+          </a>{" "}
+          or{" "}
+          <a href="https://twitter.com/vlrhman" target="_blank">
+            Twitter
           </a>
           .
         </p>

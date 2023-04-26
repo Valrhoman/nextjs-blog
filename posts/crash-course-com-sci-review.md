@@ -1,5 +1,5 @@
 ---
-title: "Crash Course Computer Science: A Comprehensive Overview for Beginners"
+title: "Discover the World of Computer Science with Crash Course"
 date: "2023-04-24"
 ---
 
@@ -27,3 +27,7 @@ The host of the course, Miss Carrie Anne, expertly delivers the knowledge in a p
 ### Conclusion
 
 In conclusion, if you're interested in learning computer science, I highly recommend checking out Crash Course Computer Science. The course provides a comprehensive yet concise overview of computer science principles, with engaging delivery by Miss Carrie Anne. Plus, the well-produced animations and additional resources make it easy to understand and learn more about the concepts covered. Give it a try, and you'll find yourself falling in love with computer science.
+
+---
+
+_This is my first blog._ 😀
