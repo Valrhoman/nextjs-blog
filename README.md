@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Simple blog website created from Next.js Learn.
+
+Soon I will add cms functionality and UI design.
